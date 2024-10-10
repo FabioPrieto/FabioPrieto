@@ -35,4 +35,4 @@ width="30" height="30" />
 [<img align="left" alt="LinkedIn" width="22px"
 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <br />
-[linkedin]: https://www.linkedin.com/in/tu-linkedin
+[linkedin]: [https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/fabio-prieto/)
