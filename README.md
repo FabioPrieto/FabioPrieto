@@ -33,6 +33,6 @@ width="30" height="30" />
 <br />
 ### Contactame!:
 [<img align="left" alt="LinkedIn" width="22px"
-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />]
 <br />
 [Mi linkedin](https://www.linkedin.com/in/fabio-prieto/)
