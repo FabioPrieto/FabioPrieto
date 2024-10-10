@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 ### Lenguajes y Herramientas que utilizo:
 **Generales:**
 <br />
-<img align="left"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8
-e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
-<img align="left"
-src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1
-c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
 <img align="bottom"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"
 width="30" height="30" />
